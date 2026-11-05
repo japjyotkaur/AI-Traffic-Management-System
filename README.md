@@ -9,19 +9,19 @@ The project is a prototype. It does not connect to or control real traffic light
 ## Screenshots
 
 ### Vehicle detection and tracking
-![Vehicle detection and tracking](outputs\testing\3.png)
+![Vehicle detection and tracking](outputs/testing/3.png)
 
 ### Traffic counts and density
-![Traffic counts and density](outputs\testing\4.png)
+![Traffic counts and density](outputs/testing/4.png)
 
 ### Vehicle movement
-![Vehicle movement](outputs\testing\5.png)
+![Vehicle movement](outputs/testing/5.png)
 
 ### Signal control
 ![Signal control](outputs/testing/6.png)
 
 ### Fixed-time and adaptive comparison
-![Fixed-time and adaptive comparison](outputs\testing\7.png)
+![Fixed-time and adaptive comparison](outputs/testing/7.png)
 ![Fixed-time and adaptive comparison graph](outputs/testing/8.png)
 
 The screenshots show results from the traffic video and simulation settings used during testing. Results will vary with the input video and simulation settings.
