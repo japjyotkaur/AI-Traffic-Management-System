@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+
+# Model weights
+models/*.pt
+
+# Input videos
+data/videos/*
+!data/videos/.gitkeep
+
+# Generated outputs
+outputs/*
+!outputs/.gitkeep
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Secrets
+.streamlit/secrets.toml
